@@ -1,26 +1,41 @@
-Hello, I'm Shahshad Babu! 👋
-I'm a passionate Flutter developer with a strong knack for state management, UI design, and integrating REST APIs. My goal is to craft delightful and efficient mobile applications using Flutter.
+<!DOCTYPE html>
+<html>
 
-About Me
-🚀 I'm skilled in Flutter, Dart, and various state management techniques like Provider, Riverpod, and Bloc.
+<head>
+    <title>Shahshad Babu - Flutter Developer</title>
+</head>
 
-💻 Proficient in creating beautiful and responsive user interfaces, ensuring an excellent user experience.
+<body>
 
-🌐 Experienced in integrating RESTful APIs for data retrieval and manipulation.
+    <h1>Hello, I'm Shahshad Babu! 👋</h1>
 
-Projects
-📱 Project Name 1: Brief description.
-📱 Project Name 2: Brief description.
-Get in Touch
-📫 Let's connect! You can reach me via Email or LinkedIn.
+    <p>I'm a passionate Flutter developer with a strong knack for state management, UI design, and integrating REST APIs. My goal is to craft delightful and efficient mobile applications using Flutter.</p>
 
-🌐 Explore my work on GitHub.
+    <h2>About Me</h2>
 
-Feel free to explore my repositories and get in touch for collaborations or any questions you might have.
+    <ul>
+        <li>🚀 I'm skilled in Flutter, Dart, and various state management techniques like Provider, Riverpod, and Bloc.</li>
+        <li>💻 Proficient in creating beautiful and responsive user interfaces, ensuring an excellent user experience.</li>
+        <li>🌐 Experienced in integrating RESTful APIs for data retrieval and manipulation.</li>
+    </ul>
 
-Thank you for visiting! 🙌
+    <h2>Projects</h2>
 
-<!---
-Shahshad75/Shahshad75 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+    <ul>
+        <li>📱 <a href="link">Project Name 1</a>: Brief description.</li>
+        <li>📱 <a href="link">Project Name 2</a>: Brief description.</li>
+    </ul>
+
+    <h2>Get in Touch</h2>
+
+    <p>📫 Let's connect! You can reach me via <a href="mailto:your-email@example.com">Email</a> or <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a>.</p>
+
+    <p>🌐 Explore my work on <a href="https://github.com/yourusername">GitHub</a>.</p>
+
+    <p>Feel free to explore my repositories and get in touch for collaborations or any questions you might have.</p>
+
+    <p>Thank you for visiting! 🙌</p>
+
+</body>
+
+</html>
