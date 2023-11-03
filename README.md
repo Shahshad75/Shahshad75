@@ -1,41 +1,24 @@
-<!DOCTYPE html>
-<html>
+# Hello, I'm Shahshad Babu! 👋
 
-<head>
-    <title>Shahshad Babu - Flutter Developer</title>
-</head>
+**I'm a passionate Flutter developer** with a strong knack for state management, UI design, and integrating REST APIs. My goal is to craft delightful and efficient mobile applications using Flutter.
 
-<body>
+## About Me
 
-    <h1>Hello, I'm Shahshad Babu! 👋</h1>
+- 🚀 **Skilled in Flutter, Dart, and various state management techniques** like Provider, Riverpod, and Bloc.
+- 💻 **Proficient in creating beautiful and responsive user interfaces**, ensuring an excellent user experience.
+- 🌐 **Experienced in integrating RESTful APIs** for data retrieval and manipulation.
 
-    <p>I'm a passionate Flutter developer with a strong knack for state management, UI design, and integrating REST APIs. My goal is to craft delightful and efficient mobile applications using Flutter.</p>
+## Projects
 
-    <h2>About Me</h2>
+- 📱 [Project Name 1](link): Brief description.
+- 📱 [Project Name 2](link): Brief description.
 
-    <ul>
-        <li>🚀 I'm skilled in Flutter, Dart, and various state management techniques like Provider, Riverpod, and Bloc.</li>
-        <li>💻 Proficient in creating beautiful and responsive user interfaces, ensuring an excellent user experience.</li>
-        <li>🌐 Experienced in integrating RESTful APIs for data retrieval and manipulation.</li>
-    </ul>
+## Get in Touch
 
-    <h2>Projects</h2>
+📫 **Let's connect!** You can reach me via [Email](mailto:your-email@example.com) or [LinkedIn](https://www.linkedin.com/in/yourprofile/).
 
-    <ul>
-        <li>📱 <a href="link">Project Name 1</a>: Brief description.</li>
-        <li>📱 <a href="link">Project Name 2</a>: Brief description.</li>
-    </ul>
+🌐 **Explore my work on [GitHub](https://github.com/yourusername).**
 
-    <h2>Get in Touch</h2>
+Feel free to explore my repositories and get in touch for collaborations or any questions you might have.
 
-    <p>📫 Let's connect! You can reach me via <a href="mailto:your-email@example.com">Email</a> or <a href="https://www.linkedin.com/in/yourprofile/">LinkedIn</a>.</p>
-
-    <p>🌐 Explore my work on <a href="https://github.com/yourusername">GitHub</a>.</p>
-
-    <p>Feel free to explore my repositories and get in touch for collaborations or any questions you might have.</p>
-
-    <p>Thank you for visiting! 🙌</p>
-
-</body>
-
-</html>
+**Thank you for visiting!** 🙌
