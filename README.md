@@ -21,4 +21,4 @@
 
 Feel free to explore my repositories and get in touch for collaborations or any questions you might have.
 
-**Thank you for visiting!** 🙌
+**Thank you for visiting!**  🙌
